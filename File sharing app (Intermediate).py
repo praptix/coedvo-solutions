@@ -8,7 +8,7 @@ import webbrowser
 
 # Define port number and user name
 PORT = 8000  # Change this if needed
-USER_NAME = "YourName"  # Replace with your name
+USER_NAME = "Prapti"  # Replace with your name
 
 # Step 1: Get IP address of the machine
 def get_ip():
