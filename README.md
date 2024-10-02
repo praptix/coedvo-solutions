@@ -1,2 +1,0 @@
-# coedvo
- internship
